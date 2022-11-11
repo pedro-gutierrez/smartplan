@@ -1,0 +1,7 @@
+{
+  "skip_files": [
+    "lib/smartplan/release.ex",
+    "lib/smartplan/repo.ex",
+    "test/support"
+  ]
+}
